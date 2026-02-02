@@ -42,4 +42,6 @@ regardless of who interviewed them and what questions were posed.
 ### Contents
 * [Business Case](business_case/BUSINESS_CASE.md)
 * [Proof Of Concept](poc/POC.md)
+* [User Personas](analysis/user_personas/ALL_PERSONAS.md)
+* [Use Cases](analysis/use_cases/ALL_USE_CASES.md)
 
